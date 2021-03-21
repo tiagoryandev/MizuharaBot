@@ -1,0 +1,30 @@
+{
+  "name": "mizuharabot",
+  "version": "4.0.0",
+  "description": "Melhor Bot para seu Servidor! Feito pelo nosso querido TiaGoiNsaNy!",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "TiaGoiNsaNy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "firebase": "^8.2.1",
+    "fs": "0.0.1-security",
+    "generate-password": "^1.5.1",
+    "gifencoder": "^2.0.1",
+    "jimp": "^0.16.1",
+    "mal-scraper": "^2.11.2",
+    "merge-img": "^2.1.3",
+    "moment": "^2.29.1",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.6.1",
+    "number-formatter": "^1.2.0",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "random-anime": "^1.0.6"
+  }
+}
