@@ -73,7 +73,7 @@ $ npm run dev
 
 ## `3º` **|** Links:
 
-:link: Todos os links abaixos estão liberadores, espero que veja todos.
+:link: Todos os links abaixos estão liberados, espero que veja todos.
 > - [:bird: Twitter Mizuhara](https://twitter.com/BotMizuhara)
 > - [:bird: Twitter TiaGoiNsaNy](https://twitter.com/TiaGoiNsaNy)
 > - [:moneybag: Meu Patreon](https://patreon.com/TiaGoiNsaNy)
