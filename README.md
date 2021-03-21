@@ -10,7 +10,7 @@
 </a>
 <a href="https://www.patreon.com/TiaGoiNsaNy"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a> 
 <a href="https://www.paypal.com/donate/?cmd=_donations&business=K4DA7PQ8N2NDY&item_name=Ajudar+a+melhorar+a+hospedagem+da+Mizuhara+Bot&currency_code=BRL"><img src="https://img.shields.io/badge/donate-mizuhara-fff.svg"></a>
-<img alt="GitHub" src="https://img.shields.io/github/license/TiaGoiNsaNy/MizuharaBot">
+<img alt="GitHub" src="https://img.shields.io/github/license/TiaGoiNsaNy/MizuharaBot?style=plastic">
 </p>
 
 :blush: Finalmente depois de muito tempo, eu finalmente mostrei a **Source** da **Mizuhara bot**! E eu estou muito feliz de retirar esse fardo das minhas costas, pelo medo de mostrar o código fonte dela, mais hoje é o dia!
