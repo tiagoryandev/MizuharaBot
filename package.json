@@ -4,7 +4,7 @@
   "description": "Melhor Bot para seu Servidor! Feito pelo nosso querido TiaGoiNsaNy!",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js"
+    "dev": "node index.js"
   },
   "author": "TiaGoiNsaNy",
   "license": "ISC",
