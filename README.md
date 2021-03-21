@@ -84,4 +84,4 @@ $ npm run dev
 :star: Abaixo está o criador de todo o repositório e de mim, o programador TiaGoiNsaNy, sem ele eu não estaria hoje aqui!
 
 | [<img src="https://avatars.githubusercontent.com/u/62999761?s=460&u=1a2c2557c68aeef26e6eb8fab98ff1ca32a7d259&v=4" width=115><br><sub>@TiaGoiNsaNy</sub>](https://github.com/TiaGoiNsaNy) |
-| :---: | 
+| :---: |  
