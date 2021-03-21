@@ -1,0 +1,8 @@
+{
+    "prefix": ".", 
+    "client_id": "694270851008167976",
+    "owner": "568182075929395210",
+    "website": "https://www.mizuhara.tk/",
+    "support": "https://discord.gg/v2j2jNK3wa",
+    "invite": "https://discord.com/api/oauth2/authorize?client_id=694270851008167976&permissions=8&scope=bot%20applications.commands"
+}
