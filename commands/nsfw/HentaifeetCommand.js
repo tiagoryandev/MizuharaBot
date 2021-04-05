@@ -17,7 +17,7 @@ module.exports = {
         const embed = new Discord.MessageEmbed()
             .setColor(colors.default)
             .setImage(data.url)
-            .setFooter(`• Punheteiro: ${message.author.tag}`, message.author.displayAvatarURL({ dynamic: true, format: 'png', size: 1024 })); // Define a embed com a imagem
+            .setFooter(`• Coomer: ${message.author.tag}`, message.author.displayAvatarURL({ dynamic: true, format: 'png', size: 1024 })); // Define a embed com a imagem
 
         message.channel.send(`${message.author}`, embed); // Envia a embed mencionando o autor
     }, // Executa p código do comando
