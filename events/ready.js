@@ -12,7 +12,6 @@ module.exports = async (client) => {
         {name: 'pedra no Kazuya!', type: "PLAYING"}, 
         {name: `Me siga no meu Twitter: @BotMizuhara`, type: "PLAYING"},
         {name: `Use upvote`, type: 'WATCHING'},
-        {name: `Feliz Natal!`, type: 'WATCHING'}
     ]; // Definição de um array com todos os status
   
     function setStatus() {
